@@ -15,9 +15,9 @@
 - 🎓 B.Tech Computer Science student at **KL University** (CGPA: 9.21)
 - 💼 Software Development Engineer & Full Stack Developer experienced in building **scalable web applications** with Java, Spring Boot, and React
 - 🔧 Strong foundation in **data structures, system design, and API development** with a focus on performance and clean architecture
-- 🌱 Currently strengthening my **MERN stack** skills alongside my Java/Spring backend expertise
+- 🌱 Currently strengthening my **Java/Spring** backend expertise
 - 💡 Passionate about solving real-world problems through efficient, user-centric solutions
-- 🏆 Solved **200+ problems on LeetCode** and participated in **40+ CodeChef contests**
+- 🏆 Solved **270+ problems on LeetCode** and participated in **35+ CodeChef contests**
 - 📍 Based in Vijayawada, Andhra Pradesh, India
 
 ---
@@ -76,7 +76,7 @@ A production-ready ticket booking platform with JWT authentication, live seat al
 <td width="50%">
 
 #### 💰 [Expense Tracker Application](https://github.com/Karthik1144)
-**MERN Stack · Spring Security · JWT · PostgreSQL**
+**Java · Spring Boot  · Spring Security · JWT · PostgreSQL**
 
 A full-stack expense management system to track and analyze user financial behavior with real-time insights.
 
@@ -92,32 +92,6 @@ A full-stack expense management system to track and analyze user financial behav
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karthik1144&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik1144&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik1144&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik1144&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Karthik1144/Karthik1144/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-> ⚙️ To activate the snake animation, add the **GitHub Actions workflow** below to this repo (`Karthik1144/Karthik1144`) at `.github/workflows/snake.yml` — instructions included further down.
-
----
 
 ### 📜 Certifications
 
@@ -131,7 +105,7 @@ A full-stack expense management system to track and analyze user financial behav
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20with%20me-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-godugula)
+[![LinkedIn](https://www.linkedin.com/in/godugula-karthik-62b62b29b/)
 [![Gmail](https://img.shields.io/badge/-Say%20Hello-red?style=flat&logo=Gmail&logoColor=white)](mailto:gkarthik8461@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Karthik1144&color=blueviolet&style=flat)
