@@ -61,7 +61,7 @@
 <tr>
 <td width="50%">
 
-#### 🎟️ [Ticket Booking System](https://github.com/Karthik1144)
+#### 🎟️ [Ticket Booking System](https://github.com/Karthik1144/tickethub.git)
 **Java · Spring Boot · Spring Data JPA · PostgreSQL · React**
 
 A production-ready ticket booking platform with JWT authentication, live seat allocation, and secure payment integration.
