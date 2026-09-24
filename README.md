@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Karthik+Godugula;Software+Development+Engineer;Full+Stack+%7C+Backend-Focused+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL" alt="Typing SVG" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-godugula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godugula-karthik-62b62b29b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkarthik8461@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/KarthikGodugula)
 
@@ -105,7 +105,6 @@ A full-stack expense management system to track and analyze user financial behav
 
 [![LinkedIn](https://www.linkedin.com/in/godugula-karthik-62b62b29b/)
 [![Gmail](https://img.shields.io/badge/-Say%20Hello-red?style=flat&logo=Gmail&logoColor=white)](mailto:gkarthik8461@gmail.com)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Karthik1144&color=blueviolet&style=flat)
 
 </div>
