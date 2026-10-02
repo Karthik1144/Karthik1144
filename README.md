@@ -73,7 +73,7 @@ A production-ready ticket booking platform with JWT authentication, live seat al
 </td>
 <td width="50%">
 
-#### 💰 [Expense Tracker Application](https://github.com/Karthik1144)
+#### 💰 [Expense Tracker Application](https://github.com/Karthik1144/Expense-tracker)
 **Java · Spring Boot  · Spring Security · JWT · PostgreSQL**
 
 A full-stack expense management system to track and analyze user financial behavior with real-time insights.
