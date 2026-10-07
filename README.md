@@ -101,9 +101,8 @@ A full-stack expense management system to track and analyze user financial behav
 
 ### 📫 Let's Connect
 
-<div align="center">
-
-[![LinkedIn](https://www.linkedin.com/in/godugula-karthik-62b62b29b/)
+<div align="center"> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godugula-karthik-62b62b29b/)
 [![Gmail](https://img.shields.io/badge/-Say%20Hello-red?style=flat&logo=Gmail&logoColor=white)](mailto:gkarthik8461@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Karthik1144&color=blueviolet&style=flat)
 
