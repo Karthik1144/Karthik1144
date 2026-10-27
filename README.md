@@ -93,9 +93,11 @@ A full-stack expense management system to track and analyze user financial behav
 
 ### 📜 Certifications
 
+- 📁 GitHub Foundations (GH900) — Microsoft learn / GitHub (2026) 
 - ☁️ AWS Certified Cloud Practitioner (CLF-C02) — Amazon Web Services (2025)
-- 🍃 MongoDB Developer Certification — MongoDB University (2025)
+- 🍃 MongoDB Associate Developer Certification — MongoDB University (2025)
 - 🗣️ Cambridge Linguaskill General English (CEFR B2) — 2024
+   
 
 ---
 
